@@ -18,8 +18,9 @@ Then these landmarks extracted from the images are passed to SUpport vector mach
 The image is classified in to  one of the following labels ['anger' 'contempt' 'disgust' 'fear' 'happy' 'sadness' 'surprise']
 
 Grid Search Parameters used:
-C, Gamma, Kernel
-Achiieved the test score of 95%
+C, Gamma, Kernel<br />
+Achieved the test score of 95%<br />
+### Confusion Matrix <br />
 [[71  0  0  0  1  0  0]<br />
  [ 0 16  0  0  0  1  0]<br />
  [ 0  0 48  1  0  1  0]<br />
@@ -27,6 +28,7 @@ Achiieved the test score of 95%
  [ 0  0  0  0 85  0  0]<br />
  [ 0  0  0  2  0 35  0]<br />
  [ 0  0  0  1  0  1 82]]<br />
+ ### Classification Report
              <pre>               precision    recall  f1-score   support
 
            1       1.00      0.99      0.99        72
