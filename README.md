@@ -21,7 +21,7 @@ C, Gamma, Kernel
 
 Optimal Parameters obtained are:
 
-
+### I have also written script to test the model on live video .
 
 
 ## CNN
