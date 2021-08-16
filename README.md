@@ -8,8 +8,9 @@ This repository contains two different approaches
 ## Linear SVM and Landmark detector
 
 1. Data Used: Cohn-Kanade Images
-2. Landmark Extraction : CV2 Landmark Detector
+2. Landmark Extraction : CV2 Landmark Detector Download https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 3. Model Used for training : Support Vector Machine
+
 
 
 First Images are passed to CV2 landmark detector to extract the landmarks from the face. 
