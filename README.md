@@ -38,11 +38,12 @@ Then these  cropped facial images are passed to Support vector machine and the s
 The image is classified in to  one of the following labels ['anger' 'contempt' 'disgust' 'fear' 'happy' 'sadness' 'surprise']
 
 
-Weight Initalizer : Xavier/Glorot
-Loss: Categorical class entropy since it is Multi Class Classification
-Optimizer : Adam
-Trained for 10 Epochs
+1. Weight Initalizer : Xavier/Glorot
+2. Loss: Categorical class entropy since it is Multi Class Classification
+3. Optimizer : Adam
 
+Trained for 10 Epochs
+![Alt text](download.png)
 
 
 
