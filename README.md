@@ -41,8 +41,11 @@ The image is classified in to  one of the following labels ['anger' 'contempt' '
 1. Weight Initalizer : Xavier/Glorot
 2. Loss: Categorical class entropy since it is Multi Class Classification
 3. Optimizer : Adam
+4. Trained for 10 Epochs
 
-Trained for 10 Epochs
+
+
+
 ![Alt text](download.png)
 
 
